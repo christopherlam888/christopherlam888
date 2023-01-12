@@ -6,6 +6,6 @@ Connect with me on LinkedIn!
 
 ***
 
-![](https://github-readme-stats.vercel.app/api?username=christopherlam888)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=christopherlam888)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=christopherlam888&layout=compact)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=christopherlam888&layout=compact)
