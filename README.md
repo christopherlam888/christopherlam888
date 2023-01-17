@@ -6,12 +6,12 @@ Connect with me on LinkedIn!
 
 ***
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=christopherlam888&show_icons=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopherlam888&layout=compact&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=christopherlam888&show_icons=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=christopherlam888&layout=compact&hide_border=true" /> |
 | ------------- | ------------- |
 
 <a href="https://github.com/christopherlam888/alarm-system">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=christopherlam888&repo=alarm-system" />
+  <img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=christopherlam888&repo=alarm-system" />
 </a>
 <a href="https://github.com/christopherlam888/chrono-crawler">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=christopherlam888&repo=chrono-crawler" />
+  <img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=christopherlam888&repo=chrono-crawler" />
 </a>
