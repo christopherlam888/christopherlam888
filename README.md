@@ -6,14 +6,14 @@ Connect with me on LinkedIn!
 
 ***
 
-| <img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api?username=christopherlam888&show_icons=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=christopherlam888&layout=compact&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=christopherlam888&show_icons=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=christopherlam888&layout=compact&hide_border=true" /> |
 | ------------- | ------------- |
 
 #### Highlight Projects:
 
 <a href="https://github.com/christopherlam888/subscribify">
-  <img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=christopherlam888&repo=subscribify" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=christopherlam888&repo=subscribify" />
 </a>
 <a href="https://github.com/christopherlam888/chrono-crawler">
-  <img align="center" src="https://github-readme-stats-ruby-one.vercel.app/api/pin/?username=christopherlam888&repo=chrono-crawler" />
+  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=christopherlam888&repo=chrono-crawler" />
 </a>
