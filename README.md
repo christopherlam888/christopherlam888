@@ -11,9 +11,16 @@ Connect with me on LinkedIn!
 
 #### Highlight Projects:
 
-<a href="https://github.com/christopherlam888/subscribify">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=christopherlam888&repo=subscribify" />
-</a>
-<a href="https://github.com/christopherlam888/chrono-crawler">
-  <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=christopherlam888&repo=chrono-crawler" />
-</a>
+<p align="left">
+  <a href="https://github.com/christopherlam888/the-ewc">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=christopherlam888&repo=the-ewc" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/christopherlam888/card-games">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=christopherlam888&repo=card-games" />
+  </a>
+</p>
+
+
