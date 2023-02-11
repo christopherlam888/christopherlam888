@@ -18,8 +18,8 @@ Connect with me on LinkedIn!
 </p>
 
 <p align="left">
-  <a href="https://github.com/christopherlam888/card-games">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=christopherlam888&repo=card-games" />
+  <a href="https://github.com/christopherlam888/chrono-crawler">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=christopherlam888&repo=chrono-crawler" />
   </a>
 </p>
 
