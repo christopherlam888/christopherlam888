@@ -6,7 +6,7 @@ Connect with me on LinkedIn!
 
 ***
 
-| <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=christopherlam888&show_icons=true&hide_border=true" /> | <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=christopherlam888&layout=compact&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=christopherlam888&show_icons=true&hide_border=true&hide_rank=true" /> | <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=christopherlam888&layout=compact&hide_border=true" /> |
 | ------------- | ------------- |
 
 #### Highlight Projects:
