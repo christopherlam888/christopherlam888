@@ -12,19 +12,13 @@ Connect with me on LinkedIn!
 #### Highlight Projects:
 
 <p align="left">
-  <a href="https://github.com/christopherlam888/the-ewc">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=christopherlam888&repo=the-ewc" />
+  <a href="https://github.com/christopherlam888/traffic-light">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=christopherlam888&repo=traffic-light" />
   </a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/christopherlam888/saints-app">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=christopherlam888&repo=saints-app" />
-  </a>
-</p>
-
-<p align="left">
-  <a href="https://github.com/christopherlam888/saints-app-data">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=christopherlam888&repo=saints-app-data" />
+  <a href="https://github.com/christopherlam888/produce-palate">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=christopherlam888&repo=produce-palate" />
   </a>
 </p>
