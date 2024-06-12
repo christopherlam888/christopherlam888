@@ -6,19 +6,18 @@ Connect with me on LinkedIn!
 
 ***
 
-| <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=christopherlam888&show_icons=true&hide_border=true&hide_rank=true" /> | <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=christopherlam888&layout=compact&hide_border=true" /> |
-| ------------- | ------------- |
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=christopherlam888&show_icons=true&hide_border=true&hide_rank=true" />
 
 #### Highlight Projects:
 
 <p align="left">
-  <a href="https://github.com/christopherlam888/traffic-light">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=christopherlam888&repo=traffic-light" />
+  <a href="https://github.com/christopherlam888/produce-palate">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=christopherlam888&repo=produce-palate" />
   </a>
 </p>
 
 <p align="left">
-  <a href="https://github.com/christopherlam888/produce-palate">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=christopherlam888&repo=produce-palate" />
+  <a href="https://github.com/olivia-yong/htn2023">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=olivia-yong&repo=htn2023" />
   </a>
 </p>
